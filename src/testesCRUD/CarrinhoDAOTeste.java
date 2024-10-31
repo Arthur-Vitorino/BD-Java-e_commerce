@@ -39,4 +39,4 @@ public class CarrinhoDAOTeste {
             e.printStackTrace();
         }
     }
-}
+} //Todos dessa pasta comentados por Anna Júlia
