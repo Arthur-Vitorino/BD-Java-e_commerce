@@ -31,4 +31,4 @@ public class Carrinho {
     public void setQuantidade(int quantidade) {
         this.quantidade = quantidade;
     }
-}
+} //Todos dessa pasta comentados por Arthur
